@@ -9,3 +9,5 @@ The archive of old projects and repositories
 - seleniumtest
 - web20app
 - bombe
+- bet-database
+- y2k
